@@ -1,0 +1,25 @@
+{
+    "name": "nabin",
+    "description": "All Repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/phisher98/HindiProviders/builds/plugins.json"
+      "https://raw.githubusercontent.com/self-similarity/MegaRepo/builds/repo.json",
+      "https://raw.githubusercontent.com/CranberrySoup/AniyomiCompatExtension/master/repo.json",
+      "https://codeberg.org/cloudstream/cloudstream-extensions/raw/branch/builds/repo.json",
+      "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/repo.json",
+      "https://codeberg.org/cloudstream/cloudstream-extensions-hexated/raw/branch/builds/repo.json",
+      "https://codeberg.org/cloudstream/likdev256-tamil-providers/raw/branch/builds/repo.json",
+      "https://raw.githubusercontent.com/CakesTwix/cloudstream-extensions-uk/master/repo.json",
+      "https://codeberg.org/cloudstream/cs3xxx-repo/raw/branch/dev/repo.json",
+      "https://codeberg.org/cloudstream/arab/raw/branch/builds/repo.json",
+      "https://raw.githubusercontent.com/AirbnbEcoPlus/frencharchive/master/repo.json",
+      "https://codeberg.org/cloudstream/cloudstream-extensions-horis/raw/branch/master/repo.json",
+      "https://raw.githubusercontent.com/techtanic/SkillShare-Repo/builds/repo.json",
+      "https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/builds/repo.json",
+      "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/master/repo.json",
+      "https://codeberg.org/IndusAryan/AR/raw/branch/main/repo.json",
+      "https://pastebin.com/raw/KkD9AdgY",
+      "https://git.disroot.org/ayza/FStream/raw/branch/main/repo.json"
+    ]
+  }
